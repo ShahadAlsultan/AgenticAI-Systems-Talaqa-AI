@@ -1,7 +1,10 @@
+:
 
 ---
 
 ---
+
+> **SDAIA Academy on GitHub:** @SDAIAAcademy
 
 ---
 
@@ -11,7 +14,7 @@
 | --- | --- |
 | **Project** | Talaqa AI — Multi-Agent Presentation & Public-Speaking Coach |
 | **Repository** | `Building-Agentic-AI-Systems-Talaqa-AI` |
-| **Architecture Track** | Supervisor + Specialist Workers |
+| **Architecture Track** | Track A — Supervisor + Specialist Workers |
 | **Workflow Pattern** | Evaluator–Optimizer |
 | **Core Architecture** | Multi-Agent System + Hybrid RAG + Human-in-the-Loop |
 
@@ -71,7 +74,7 @@ Talaqa AI combines measurable rehearsal evidence, curated public-speaking knowle
 
 ## System Architecture
 
-Talaqa AI follows a **Supervisor + Specialist Workers** architecture and applies an **Evaluator–Optimizer** workflow pattern.
+Talaqa AI follows **Track A — Supervisor + Specialist Workers** and applies an **Evaluator–Optimizer** workflow pattern.
 
 ```mermaid
 flowchart TD
