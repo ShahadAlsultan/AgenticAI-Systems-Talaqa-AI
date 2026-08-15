@@ -1,0 +1,30 @@
+# Secrets
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local model and vector caches
+.cache/
+*.faiss
+*.index
+
+# Generated reports; keep the folder documentation
+outputs/*.json
+outputs/*.md
+!outputs/README.md
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+

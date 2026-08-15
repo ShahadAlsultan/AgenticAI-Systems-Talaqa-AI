@@ -1,0 +1,13 @@
+langchain>=1.1
+langgraph>=1.2
+langchain-google-genai
+langsmith
+langchain-text-splitters
+pydantic
+pypdf
+python-docx
+python-pptx
+sentence-transformers
+faiss-cpu
+numpy
+

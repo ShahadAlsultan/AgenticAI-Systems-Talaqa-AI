@@ -1,0 +1,29 @@
+Good morning everyone.
+
+Today I am going to talk about SpeakUp AI, an artificial intelligence system designed to help students improve their presentation skills.
+
+Um, before I explain the system, I want to talk about a common problem. Many students know their topic very well, but when they have to present in front of an audience, they become nervous, speak too quickly, or depend too much on their slides.
+
+Basically, this is the problem that our project tries to solve.
+
+SpeakUp AI is an AI-powered presentation coach. The user can upload their presentation, practice speaking, and receive personalized feedback.
+
+Our system has several main components. First, the user uploads the presentation. The system analyzes the slides and extracts important information. Then, during the practice session, the user's speech can be converted into text.
+
+You know, after that, the system analyzes the transcript and looks for different issues, such as filler words, speaking pace, clarity, and the structure of the presentation.
+
+Another important part of our system is RAG, which stands for Retrieval-Augmented Generation. Um, RAG allows the system to retrieve relevant information from our knowledge base before generating feedback.
+
+Our knowledge base contains guidelines about public speaking, presentation structure, slide design, voice delivery, body language, confidence, and presentation evaluation.
+
+So, instead of giving general advice, SpeakUp AI can provide feedback based on these presentation guidelines.
+
+For example, if the user uses too many filler words, the system can identify them and suggest practicing with short pauses instead. If the presentation has too much text on the slides, the system can recommend reducing the content and focusing on the main idea.
+
+The system then generates a personalized feedback report. The report includes strengths, areas for improvement, delivery feedback, confidence tips, and specific actions for the next rehearsal.
+
+Um, I think the main advantage of SpeakUp AI is that it gives students an opportunity to practice before the actual presentation and understand exactly what they need to improve.
+
+In conclusion, SpeakUp AI is not only an AI system that evaluates a presentation. It is a practice assistant that helps students become more confident, clear, and effective speakers.
+
+Thank you for listening, and I hope you enjoyed the presentation.
