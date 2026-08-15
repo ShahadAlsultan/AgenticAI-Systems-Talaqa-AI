@@ -12,9 +12,6 @@
   An end-to-end agentic AI system for presentation design, rehearsal analysis, and confidence coaching.
 </p>
 
-<p align="center">
-  <a href="https://github.com/SDAIAAcademy"><img src="https://img.shields.io/badge/SDAIA_Academy-Capstone_Project-00A86B?style=for-the-badge" alt="SDAIA Academy Capstone Project"></a>
-</p>
 
 <p align="center">
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.12-3776AB?logo=python&amp;logoColor=white" alt="Python 3.12"></a>
@@ -35,15 +32,10 @@
 
 | Item | Details |
 |---|---|
-| **Programme** | [SDAIA Academy](https://github.com/SDAIAAcademy) — Building Agentic AI Systems |
 | **Project** | Talaqa AI — Multi-Agent Presentation & Public-Speaking Coach |
 | **Repository** | `Building-Agentic-AI-Systems-Talaqa-AI` |
-| **Capstone Track** | Track A — Supervisor + Specialist Workers |
 | **Workflow Pattern** | Evaluator–Optimizer |
 | **Core Architecture** | Multi-Agent System + Hybrid RAG + Human-in-the-Loop |
-| **Trainer** | Eng. Mohammed Albeladi |
-| **Cohort** | August 2026 |
-| **Academy GitHub** | @SDAIAAcademy |
 
 ## Table of Contents
 
@@ -61,8 +53,7 @@
 - [Expected Demonstration Flow](#expected-demonstration-flow)
 - [Security and Responsible Use](#security-and-responsible-use)
 - [Limitations](#limitations)
-- [Project Team](#project-team)
-- [Trainer and Programme](#trainer-and-programme)
+
 
 ## Overview
 
@@ -299,25 +290,3 @@ A successful top-to-bottom run demonstrates:
 - Model quality and availability depend on the selected Gemini model and API quota.
 - The included knowledge base provides general coaching guidance and does not replace professional care.
 
-## Project Team
-
-| Team member | Email |
-|---|---|
-| **Layan Omar Alomar** | [layanomaralomar@gmail.com](mailto:layanomaralomar@gmail.com) |
-| **Joud Mohammed Alturki** | [joudalturki2005@gmail.com](mailto:joudalturki2005@gmail.com) |
-| **Rawan Hamad Alqahtani** | [Rawan1hamad@hotmail.com](mailto:Rawan1hamad@hotmail.com) |
-| **Wesal Fadhl Alnoamani** | [wesalfdhel1957@gmail.com](mailto:wesalfdhel1957@gmail.com) |
-| **Shahad Abdulaziz Alsultan** | [alsultanshahad38@gmail.com](mailto:alsultanshahad38@gmail.com) |
-
-## Trainer and Programme
-
-- **Trainer:** Eng. Mohammed Albeladi
-- **Programme:** Building Agentic AI Systems
-- **Provider:** [SDAIA Academy](https://github.com/SDAIAAcademy) — @SDAIAAcademy
-- **Cohort:** August 2026
-- **Capstone track:** Track A — Supervisor + Specialist Workers
-- **Workflow pattern:** Evaluator–Optimizer
-
-## Acknowledgements
-
-This capstone was developed as part of the **Building Agentic AI Systems** programme delivered by **SDAIA Academy** (@SDAIAAcademy) under the guidance of **Eng. Mohammed Albeladi**.
