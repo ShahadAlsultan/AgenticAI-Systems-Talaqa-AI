@@ -1,12 +1,16 @@
-:
+Talaqa AI
 
----
+Multi-Agent Presentation & Public-Speaking Coach
+Clearer slides. Stronger delivery. Greater confidence.
 
----
+SDAIA Academy Capstone Project
+An end-to-end agentic AI system for presentation design, rehearsal analysis, and confidence coaching.
 
-> **SDAIA Academy on GitHub:** @SDAIAAcademy
+SDAIA Academy Capstone Project
 
----
+Python 3.12 Google Colab LangChain Agents LangGraph Functional API LangSmith Observability Gemini 3.5 Flash-Lite RAG with FAISS Evaluator Optimizer Workflow
+
+
 
 ## Project Information
 
