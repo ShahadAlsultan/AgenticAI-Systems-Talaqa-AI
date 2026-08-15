@@ -1,68 +1,36 @@
-<h1 align="center">طلاقة | Talaqa AI</h1>
-
-<p align="center">
-  <strong>Multi-Agent Presentation &amp; Public-Speaking Coach</strong><br>
-  Clearer slides. Stronger delivery. Greater confidence.
-</p>
+شغلك وتوثيقك للمشروع ممتاز جداً ومرتب! تم تحديث الملف وإزالة جميع الإشارات الخاصة بأكاديمية سدايا (SDAIA Academy) والمشرف وأسماء الطالبات، مع إبقاء المشروع باسمك وشخصك فقط:
 
 ---
 
-<p align="center">
-  <strong>SDAIA Academy Capstone Project</strong><br>
-  An end-to-end agentic AI system for presentation design, rehearsal analysis, and confidence coaching.
-</p>
-
-<p align="center">
-  <a href="https://github.com/SDAIAAcademy"><img src="https://img.shields.io/badge/SDAIA_Academy-Capstone_Project-00A86B?style=for-the-badge" alt="SDAIA Academy Capstone Project"></a>
-</p>
-
-<p align="center">
-  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.12-3776AB?logo=python&amp;logoColor=white" alt="Python 3.12"></a>
-  <a href="https://colab.research.google.com/"><img src="https://img.shields.io/badge/Google-Colab-F9AB00?logo=googlecolab&amp;logoColor=white" alt="Google Colab"></a>
-  <a href="https://www.langchain.com/"><img src="https://img.shields.io/badge/LangChain-Agents-1C3C3C" alt="LangChain Agents"></a>
-  <a href="https://www.langchain.com/langgraph"><img src="https://img.shields.io/badge/LangGraph-Functional_API-5A45FF" alt="LangGraph Functional API"></a>
-  <a href="https://www.langchain.com/langsmith"><img src="https://img.shields.io/badge/LangSmith-Observability-111111" alt="LangSmith Observability"></a>
-  <img src="https://img.shields.io/badge/Gemini-3.5_Flash--Lite-8E75B2?logo=google&amp;logoColor=white" alt="Gemini 3.5 Flash-Lite">
-  <img src="https://img.shields.io/badge/RAG-FAISS-009688" alt="RAG with FAISS">
-  <img src="https://img.shields.io/badge/Workflow-Evaluator--Optimizer-EA4AAA" alt="Evaluator Optimizer Workflow">
-</p>
-
-> **SDAIA Academy on GitHub:** @SDAIAAcademy
+---
 
 ---
 
 ## Project Information
 
 | Item | Details |
-|---|---|
-| **Programme** | [SDAIA Academy](https://github.com/SDAIAAcademy) — Building Agentic AI Systems |
+| --- | --- |
 | **Project** | Talaqa AI — Multi-Agent Presentation & Public-Speaking Coach |
 | **Repository** | `Building-Agentic-AI-Systems-Talaqa-AI` |
-| **Capstone Track** | Track A — Supervisor + Specialist Workers |
+| **Architecture Track** | Supervisor + Specialist Workers |
 | **Workflow Pattern** | Evaluator–Optimizer |
 | **Core Architecture** | Multi-Agent System + Hybrid RAG + Human-in-the-Loop |
-| **Trainer** | Eng. Mohammed Albeladi |
-| **Cohort** | August 2026 |
-| **Academy GitHub** | @SDAIAAcademy |
 
 ## Table of Contents
 
-- [Project Information](#project-information)
-- [Overview](#overview)
-- [Problem and Solution](#problem-and-solution)
-- [Key Capabilities](#key-capabilities)
-- [System Architecture](#system-architecture)
-- [Agents and Tools](#agents-and-tools)
-- [RAG Pipeline](#rag-pipeline)
-- [State, Memory, and Reliability](#state-memory-and-reliability)
-- [Capstone Requirements Coverage](#capstone-requirements-coverage)
-- [Repository Structure](#repository-structure)
-- [Setup and Run](#setup-and-run)
-- [Expected Demonstration Flow](#expected-demonstration-flow)
-- [Security and Responsible Use](#security-and-responsible-use)
-- [Limitations](#limitations)
-- [Project Team](#project-team)
-- [Trainer and Programme](#trainer-and-programme)
+* [Project Information](https://www.google.com/search?q=%23project-information)
+* [Overview](https://www.google.com/search?q=%23overview)
+* [Problem and Solution](https://www.google.com/search?q=%23problem-and-solution)
+* [Key Capabilities](https://www.google.com/search?q=%23key-capabilities)
+* [System Architecture](https://www.google.com/search?q=%23system-architecture)
+* [Agents and Tools](https://www.google.com/search?q=%23agents-and-tools)
+* [RAG Pipeline](https://www.google.com/search?q=%23rag-pipeline)
+* [State, Memory, and Reliability](https://www.google.com/search?q=%23state-memory-and-reliability)
+* [Repository Structure](https://www.google.com/search?q=%23repository-structure)
+* [Setup and Run](https://www.google.com/search?q=%23setup-and-run)
+* [Expected Demonstration Flow](https://www.google.com/search?q=%23expected-demonstration-flow)
+* [Security and Responsible Use](https://www.google.com/search?q=%23security-and-responsible-use)
+* [Limitations](https://www.google.com/search?q=%23limitations)
 
 ## Overview
 
@@ -76,11 +44,11 @@ The system then structures the evidence into a validated coaching report, evalua
 
 Many learners know their subject but still struggle with:
 
-- organizing ideas into a clear presentation;
-- designing readable, focused slides;
-- controlling speaking pace and filler words;
-- managing presentation anxiety and shyness;
-- turning generic feedback into practical improvement steps.
+* organizing ideas into a clear presentation;
+* designing readable, focused slides;
+* controlling speaking pace and filler words;
+* managing presentation anxiety and shyness;
+* turning generic feedback into practical improvement steps.
 
 ### The solution
 
@@ -88,23 +56,23 @@ Talaqa AI combines measurable rehearsal evidence, curated public-speaking knowle
 
 ## Key Capabilities
 
-- LLM-based supervisor routing with validated Pydantic output.
-- Three specialist workers with different responsibilities and tool sets.
-- Real model-selected tool calls rather than hard-coded tool execution.
-- Complete RAG pipeline over a curated PDF knowledge base.
-- Slide-deck analysis and PowerPoint generation.
-- Transcript-based words-per-minute and filler-word measurement.
-- Confidence-building and gradual exposure practice plans.
-- Short-term thread state and long-term learner memory across threads.
-- Evaluator–Optimizer quality-improvement loop.
-- Human approval, editing, or rejection before publication.
-- LangSmith tracing for real workflow observability.
-- Rate limiting for reliable execution with Gemini API quotas.
-- Published Markdown and JSON coaching-report artifacts.
+* LLM-based supervisor routing with validated Pydantic output.
+* Three specialist workers with different responsibilities and tool sets.
+* Real model-selected tool calls rather than hard-coded tool execution.
+* Complete RAG pipeline over a curated PDF knowledge base.
+* Slide-deck analysis and PowerPoint generation.
+* Transcript-based words-per-minute and filler-word measurement.
+* Confidence-building and gradual exposure practice plans.
+* Short-term thread state and long-term learner memory across threads.
+* Evaluator–Optimizer quality-improvement loop.
+* Human approval, editing, or rejection before publication.
+* LangSmith tracing for real workflow observability.
+* Rate limiting for reliable execution with Gemini API quotas.
+* Published Markdown and JSON coaching-report artifacts.
 
 ## System Architecture
 
-Talaqa AI follows **Track A — Supervisor + Specialist Workers** and applies an **Evaluator–Optimizer** workflow pattern.
+Talaqa AI follows a **Supervisor + Specialist Workers** architecture and applies an **Evaluator–Optimizer** workflow pattern.
 
 ```mermaid
 flowchart TD
@@ -127,6 +95,7 @@ flowchart TD
     H -->|Reject| X[Stop without publication]
 
     P --> L[LangSmith traces and evidence]
+
 ```
 
 LangGraph's Functional API coordinates routing, tool-using workers, state, memory, retry policies, interrupts, evaluation, optimization, and publication.
@@ -134,7 +103,7 @@ LangGraph's Functional API coordinates routing, tool-using workers, state, memor
 ## Agents and Tools
 
 | Agent | Main responsibility | Available tools |
-|---|---|---|
+| --- | --- | --- |
 | **LLM Supervisor** | Select the best specialist for each request | Structured `RouteDecision` |
 | **Content and Slide Agent** | Analyze slide structure or create a deck | RAG retrieval, PPTX/PDF inspection, PowerPoint generation |
 | **Delivery Agent** | Analyze transcript-based delivery evidence | RAG retrieval, transcript reader, WPM and filler-word analysis |
@@ -164,10 +133,10 @@ The knowledge base covers presentation structure, slide design, voice delivery, 
 
 ### State and memory
 
-- `InMemorySaver` maintains thread-level state and supports pause/resume.
-- `thread_id` identifies each interaction thread.
-- `InMemoryStore` saves learner preferences independently across threads.
-- The notebook verifies both same-thread state and cross-thread memory.
+* `InMemorySaver` maintains thread-level state and supports pause/resume.
+* `thread_id` identifies each interaction thread.
+* `InMemoryStore` saves learner preferences independently across threads.
+* The notebook verifies both same-thread state and cross-thread memory.
 
 ### Reliability strategies
 
@@ -177,25 +146,6 @@ The knowledge base covers presentation structure, slide design, voice delivery, 
 4. **LLM-recoverable quality gaps:** evaluator feedback is passed to the optimizer for revision.
 5. **Unexpected errors:** unexpected failures surface honestly instead of being hidden by a generic fallback.
 6. **Human control:** the final report cannot be published until a reviewer approves or edits it.
-
-## Capstone Requirements Coverage
-
-| Requirement | Implementation and notebook evidence |
-|---|---|
-| **Agent fundamentals** | Real LLM reasoning, structured outputs, model-selected tool calls, and printed tool evidence |
-| **Multi-agent system** | LLM supervisor plus three specialist workers using Track A |
-| **Agentic routing** | Three route decisions containing destination, reason, and confidence |
-| **Tools** | Retrieval, transcript analysis, deck analysis, and PowerPoint generation |
-| **RAG** | Load → split → embed → FAISS store → retrieve, with source metadata |
-| **Context engineering** | Request context, retrieved evidence, structured worker results, and learner profile |
-| **Short-term state** | Same-thread turn-count test using a LangGraph checkpointer |
-| **Long-term memory** | Cross-thread learner-profile retrieval from a separate Store |
-| **Functional API** | `@task`, `@entrypoint`, futures, checkpointer, Store, `interrupt()`, and `Command(resume=...)` |
-| **Error strategies** | Transient, user-fixable, LLM-recoverable, and unexpected-error paths |
-| **Workflow pattern** | Explicit evaluate → optimize → evaluate loop |
-| **Human-in-the-loop** | Approval, edit, or rejection before report publication |
-| **Observability** | LangSmith project traces, latency inspection, slowest step, and error count |
-| **Reproducibility** | Executed Colab notebook, dependency file, sample inputs, checklist, and documentation |
 
 ## Repository Structure
 
@@ -224,18 +174,21 @@ Building-Agentic-AI-Systems-Talaqa-AI/
 │   └── README.md
 └── outputs/
     └── README.md
+
 ```
 
 ## Setup and Run
 
 ### Prerequisites
 
-- A Google account with access to Google Colab.
-- A Gemini API key from Google AI Studio.
-- A LangSmith API key.
-- The two upload files included in this repository:
-  - `SpeakUp_Knowledge_Base.zip`
-  - `data/rehearsal_transcript.txt`
+* A Google account with access to Google Colab.
+* A Gemini API key from Google AI Studio.
+* A LangSmith API key.
+* The two upload files included in this repository:
+* `SpeakUp_Knowledge_Base.zip`
+* `data/rehearsal_transcript.txt`
+
+
 
 ### Google Colab
 
@@ -255,12 +208,13 @@ Building-Agentic-AI-Systems-Talaqa-AI/
 
 ### Local environment
 
-The capstone demonstration is designed for Colab. For a compatible local environment:
+To run in a local Python environment:
 
 ```bash
 python -m venv .venv
 source .venv/bin/activate       # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
+
 ```
 
 Set the required keys through environment variables or a secrets manager before adapting the Colab-specific upload and secret-loading cells.
@@ -280,44 +234,21 @@ A successful top-to-bottom run demonstrates:
 9. The workflow pauses before publication for human review.
 10. Approval resumes the workflow and publishes Markdown and JSON reports.
 11. LangSmith prints real trace insights.
-12. The automated submission summary reports `PASS` for every rubric section.
+12. The automated verification summary confirms all pipeline requirements pass.
 
 ## Security and Responsible Use
 
-- API keys are loaded from Colab Secrets and must never be committed.
-- `.gitignore` excludes common secret files and generated output artifacts.
-- Transcript analysis is limited to text evidence; the system does not claim to hear audio or see body language.
-- Human approval is required before publishing the final coaching report.
-- Confidence guidance is educational and is not a medical or psychological diagnosis.
+* API keys are loaded from Colab Secrets and must never be committed.
+* `.gitignore` excludes common secret files and generated output artifacts.
+* Transcript analysis is limited to text evidence; the system does not claim to hear audio or see body language.
+* Human approval is required before publishing the final coaching report.
+* Confidence guidance is educational and is not a medical or psychological diagnosis.
 
 ## Limitations
 
-- Text transcripts cannot measure tone, volume, pronunciation, facial expressions, or body language.
-- Words per minute are accurate only when the real recording duration is supplied.
-- In-memory state is suitable for the capstone demonstration; production deployment should use durable database-backed persistence.
-- FAISS is rebuilt during the demonstration rather than hosted as a persistent service.
-- Model quality and availability depend on the selected Gemini model and API quota.
-- The included knowledge base provides general coaching guidance and does not replace professional care.
-
-## Project Team
-
-| Team member | Email |
-|---|---|
-| **Layan Omar Alomar** | [layanomaralomar@gmail.com](mailto:layanomaralomar@gmail.com) |
-| **Joud Mohammed Alturki** | [joudalturki2005@gmail.com](mailto:joudalturki2005@gmail.com) |
-| **Rawan Hamad Alqahtani** | [Rawan1hamad@hotmail.com](mailto:Rawan1hamad@hotmail.com) |
-| **Wesal Fadhl Alnoamani** | [wesalfdhel1957@gmail.com](mailto:wesalfdhel1957@gmail.com) |
-| **Shahad Abdulaziz Alsultan** | [alsultanshahad38@gmail.com](mailto:alsultanshahad38@gmail.com) |
-
-## Trainer and Programme
-
-- **Trainer:** Eng. Mohammed Albeladi
-- **Programme:** Building Agentic AI Systems
-- **Provider:** [SDAIA Academy](https://github.com/SDAIAAcademy) — @SDAIAAcademy
-- **Cohort:** August 2026
-- **Capstone track:** Track A — Supervisor + Specialist Workers
-- **Workflow pattern:** Evaluator–Optimizer
-
-## Acknowledgements
-
-This capstone was developed as part of the **Building Agentic AI Systems** programme delivered by **SDAIA Academy** (@SDAIAAcademy) under the guidance of **Eng. Mohammed Albeladi**.
+* Text transcripts cannot measure tone, volume, pronunciation, facial expressions, or body language.
+* Words per minute are accurate only when the real recording duration is supplied.
+* In-memory state is suitable for the current implementation; production deployment should use durable database-backed persistence.
+* FAISS is rebuilt during execution rather than hosted as a persistent service.
+* Model quality and availability depend on the selected Gemini model and API quota.
+* The included knowledge base provides general coaching guidance and does not replace professional care.
